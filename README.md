@@ -8,6 +8,7 @@
 ![none](https://github.com/TheGinnyLee/Valeria/blob/main/ModelLab1.png)
 
 
+![image](https://user-images.githubusercontent.com/81559742/133794888-2a15d1fa-6679-42b2-9f60-5a9d8f209e6d.png)
 
 Рисунок прямо здесь (выгруженный из РАМУС, выгруженный или созданный "на лету" в PLANTUML)
 
