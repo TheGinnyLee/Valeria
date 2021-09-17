@@ -13,7 +13,7 @@
 
 Текст диаграммы классов: https://github.com/TheGinnyLee/Valeria/blob/main/umlLab1.txt
 
-Текст диаграммы прецендентов:
+Текст диаграммы прецендентов: https://github.com/TheGinnyLee/Valeria/blob/main/umlLab1prec.txt
 
 ## Лабораторная 2
 
