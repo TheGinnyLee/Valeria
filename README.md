@@ -5,7 +5,7 @@
 Модель Системы бронирования номера
 
 Описание модели: Сотрудник, используя данные клиента, руководствуясь  правиласми бронирования, с помощью базы данных осуществляет бронь номера.
-![none](https://github.com/TheGinnyLee/Valeria/blob/main/ModelLab1.png)
+![none](http://127.0.0.1:51461/idef0/model.png?id=3&w=1024&h=768)
 
 
 ![image](https://user-images.githubusercontent.com/81559742/133794888-2a15d1fa-6679-42b2-9f60-5a9d8f209e6d.png)
