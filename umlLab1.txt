@@ -1,0 +1,12 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class "Сотрудник" as P {
+ База данных
+Бронь Бронирование номера (Данные клиента, Правила бронирования номеров)
+}
+hide circle
+@enduml
