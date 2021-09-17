@@ -4,11 +4,10 @@
 
 Модель Системы бронирования номера
 
-![none](http://127.0.0.1:51461/idef0/index.html?id=3)
+![none](https://github.com/TheGinnyLee/Valeria/blob/main/ModelLab1.png)
 
 
 
-(http://127.0.0.1:51461/idef0/index.html?id=3)
 Рисунок прямо здесь (выгруженный из РАМУС, выгруженный или созданный "на лету" в PLANTUML)
 
 Ссылки на доп.материалы
