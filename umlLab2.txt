@@ -1,0 +1,25 @@
+@startuml
+skinparam actor {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+skinparam usecase {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+left to right direction
+actor P0 as "Человек"
+actor M0 as "Информационная система"
+actor P1 as "Клиент"
+actor P2 as "Сотрудник"
+actor M as "Подсистема бронирования номера"
+usecase A as "Выбрать номера"
+P1 -- (A)
+P2 -- (A)
+(A) -- M
+P0 <|-- P1
+P0 <|-- P2
+M --|> M0
+@enduml
