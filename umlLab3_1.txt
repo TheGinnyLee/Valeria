@@ -1,0 +1,20 @@
+@startuml
+skinparam actor {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+autonumber
+
+actor "Сотрудник" as 1
+boundary "Приложение" as 2
+control "Модуль приема данных" as 3
+entity "БД номеров" as 4
+
+1 -> 2: Ввести данные клиента
+2 -> 3
+3 -> 4: Сменить статус номера
+4 -> 3: Подтверждение смены
+3 -> 2: Подтверждение выбора
+2 -> 1: Подтвердить успешное бронирование
+@enduml
